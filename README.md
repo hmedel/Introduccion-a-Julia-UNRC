@@ -1,5 +1,5 @@
-# Taller-PrimerosPasosJulia2024
-En este repositorio se encuentran las notas y códigos usados en el taller "Programación en Julia: Primeros pasos".
+# Taller Introducción a Julia para Cómputo de Alto Rendimiento
+En este repositorio se encuentran las notas y códigos usados en para este curso.
 
 ## Objetivo
 Introducir, de manera práctica, las bases de programación en Julia. A través de ejemplos se revisarán los elementos principales de este lenguaje de programación y paquetes más útiles.
@@ -17,12 +17,12 @@ Introducir, de manera práctica, las bases de programación en Julia. A través 
 1. Ejemplos de despacho múltiple
 
 ## Fechas y horarios
-El taller se llevará a cabo de manera **virtual** del **22 al 26 de enero de 2024** en horario de **20:00 a 22:00 hrs**.
+El taller se llevará a cabo de manera **remota** del **25 de agosto al 5 de septiembre de 2025** en horario de **20:00 a 22:00 hrs**.
 
 ## Grabaciones
 Las grabaciones están en el siguiente folder compartido:
 
-https://www.dropbox.com/scl/fo/6azf1ul5ldgm6xb3254ho/h?rlkey=o6hdx241xxt0v49xnj53ucmtz&dl=0
+https://edu.rcastellanos.cdmx.gob.mx/nube_posgrado/index.php/s/BWM2aNzDL7zFtyF
 
 
 ## Navegación en el repositorio
